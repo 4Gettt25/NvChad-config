@@ -63,7 +63,6 @@ local plugins = {
     import = "custom.configs.extras.trouble"
   },
 
- 
   }
 
 return plugins
